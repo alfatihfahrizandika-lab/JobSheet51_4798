@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\bin\Debug\net10.0\jobsheet51_4798.exe
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\bin\Debug\net10.0\jobsheet51_4798.deps.json
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\bin\Debug\net10.0\jobsheet51_4798.runtimeconfig.json
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\bin\Debug\net10.0\jobsheet51_4798.dll
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\bin\Debug\net10.0\jobsheet51_4798.pdb
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\jobsheet51_4798.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\jobsheet51_4798.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\jobsheet51_4798.AssemblyInfo.cs
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\jobsheet51_4798.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\jobsheet51_4798.sourcelink.json
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\jobsheet51_4798.dll
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\refint\jobsheet51_4798.dll
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\jobsheet51_4798.pdb
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\jobsheet51_4798.genruntimeconfig.cache
+C:\Users\ACER\Desktop\DPK-PPLG\SemesterGanjil\Bab-5\jobsheet51_4798\obj\Debug\net10.0\ref\jobsheet51_4798.dll
