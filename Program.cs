@@ -1,6 +1,7 @@
 Console.WriteLine("=== CETAK DOKUMEN ===");
 Console.WriteLine("Nama pelanggan = Fatih");
 string namaPelanggan = Console.ReadLine();
+Console.WriteLine("Nama dokumen = Tugas");
 Console.WriteLine("Jumlah halaman = 30");
 int jumlahHalaman = int.Parse(Console.ReadLine());
 Console.WriteLine("Harga per halaman = 400 ");
